@@ -42,3 +42,4 @@ Using **Axum** framework with `tokio`, and `serde` for data serialization.
 | `/canvases`             | GET    | List available canvases          |
 | `/canvas/:id`           | GET    | Load specific canvas             |
 | `/sync`                 | WS     | WebSocket endpoint for updates   |
+
