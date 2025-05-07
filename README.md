@@ -43,3 +43,6 @@ Using **Axum** framework with `tokio`, and `serde` for data serialization.
 | `/canvas/:id`           | GET    | Load specific canvas             |
 | `/sync`                 | WS     | WebSocket endpoint for updates   |
 
+### NOTES
+- For rust websocket, check out https://github.com/tokio-rs/axum/blob/main/examples/websockets/src/main.rs
+
